@@ -278,7 +278,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2017-12-09 23:28:10 +0000",
-      "cooked_beef": "2017-12-10 02:26:05 +0000"
+      "cooked_beef": "2017-12-10 02:26:05 +0000",
+      "cooked_cod": "2017-12-14 00:56:27 +0000",
+      "cooked_chicken": "2017-12-12 03:33:33 +0000"
     },
     "done": false
   },
@@ -658,6 +660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2017-12-12 02:48:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2017-12-09 22:01:03 +0000"
@@ -733,6 +741,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-12-09 00:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2017-12-12 02:48:25 +0000"
     },
     "done": true
   },
@@ -910,6 +924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2017-12-14 02:37:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-12-09 07:16:36 +0000"
@@ -1053,6 +1073,12 @@
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2017-12-09 19:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2017-12-12 02:48:25 +0000"
     },
     "done": true
   },

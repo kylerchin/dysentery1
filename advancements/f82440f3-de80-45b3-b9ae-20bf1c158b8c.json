@@ -347,8 +347,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2017-12-13 05:24:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2017-12-12 02:42:42 +0000",
+      "cooked_beef": "2017-12-14 02:17:40 +0000",
       "bread": "2017-08-27 20:59:56 +0000"
     },
     "done": false
@@ -497,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2017-12-13 05:24:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2017-08-22 05:00:55 +0000"
@@ -512,6 +526,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-08-20 02:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2017-12-13 05:24:35 +0000"
     },
     "done": true
   },
@@ -629,6 +649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2017-12-12 02:47:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-08-20 02:26:00 +0000"
@@ -731,6 +757,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2017-12-14 02:30:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-09-09 01:33:25 +0000"
@@ -770,6 +802,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-09-09 01:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2017-12-14 02:37:10 +0000"
     },
     "done": true
   },
@@ -822,7 +860,8 @@
       "zombie": "2017-08-22 04:52:59 +0000",
       "witch": "2017-08-27 20:50:03 +0000",
       "spider": "2017-08-22 04:17:52 +0000",
-      "creeper": "2017-08-22 05:00:54 +0000"
+      "creeper": "2017-08-22 05:00:54 +0000",
+      "enderman": "2017-12-14 02:18:56 +0000"
     },
     "done": false
   },
@@ -997,6 +1036,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2017-11-26 04:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2017-12-14 02:26:58 +0000"
     },
     "done": true
   },
@@ -1546,6 +1591,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-09-09 01:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2017-12-14 02:26:58 +0000"
     },
     "done": true
   },
