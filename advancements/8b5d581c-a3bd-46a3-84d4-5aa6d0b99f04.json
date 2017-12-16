@@ -386,6 +386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2017-12-16 01:55:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-12-09 00:32:03 +0000"
@@ -619,6 +625,7 @@
       "zombie_pigman": "2017-12-10 01:57:35 +0000",
       "skeleton": "2017-12-11 01:24:50 +0000",
       "zombie": "2017-12-09 22:10:03 +0000",
+      "witch": "2017-12-16 01:54:31 +0000",
       "creeper": "2017-12-09 22:09:04 +0000",
       "enderman": "2017-12-10 02:20:05 +0000"
     },
